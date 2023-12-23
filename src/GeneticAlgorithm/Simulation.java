@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @author David Ralph <David.M.L.Ralph@Gmail.com>
+ * @author Sage Ralph <SageJeanRalph@Gmail.com>
  */
 public class Simulation {
 

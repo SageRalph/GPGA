@@ -2,7 +2,7 @@ package GeneticAlgorithm;
 import java.util.Random;
 
 /**
- * @author David Ralph <David.M.L.Ralph@Gmail.com>
+ * @author Sage Ralph <SageJeanRalph@Gmail.com>
  */
 public class Chromosome {
 

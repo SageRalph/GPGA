@@ -2,7 +2,7 @@ package GeneticAlgorithm;
 import java.util.Arrays;
 
 /**
- * @author David Ralph <David.M.L.Ralph@Gmail.com>
+ * @author Sage Ralph <SageJeanRalph@Gmail.com>
  */
 public class Generation {
 
